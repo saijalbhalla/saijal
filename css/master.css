@@ -196,7 +196,7 @@ body {
   padding-top: 20px;
 }
 #feedback-div {
-  background-color: rgba(72, 72, 72, 1);
+  background-color: #FFDF00;  /* rgba(72, 72, 72, 1); */
   padding-left: 25px;
   padding-right: 25px;
   padding-top: 35px;
