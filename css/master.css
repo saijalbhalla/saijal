@@ -196,7 +196,7 @@ body {
   padding-top: 20px;
 }
 #feedback-div {
-  background-color: #0E1320;  /* rgba(72, 72, 72, 1); */
+  background-color: #0E1320; 
   padding-left: 25px;
   padding-right: 25px;
   padding-top: 35px;
@@ -302,11 +302,11 @@ input:focus,
 
 #feedback-button-blue:hover {
   background-color: rgba(0, 0, 0, 0);
-  color: #0493bd;
+  color: #0E1320;
 }
 
 .feedback-button-blue:hover {
-  color: #3498db;
+  color: #0E1320;
 }
 
 .feedback-ease {
